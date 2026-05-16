@@ -1,0 +1,6 @@
+{
+  "name": "AutoAudit",
+  "description": "Intelligent Financial Compliance & Audit System powered by AI to automate financial auditing and ensure GST compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Financial Data Analysis", "AI-driven Anomaly Detection", "Compliance Monitoring", "Real-time Auditing"]
+}
